@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 
 import "./Navbar.css";
-import Logo from "../../assets/Foodieland..svg";
-import Facebook from "../../assets/facebook.svg";
-import Twitter from "../../assets/twitter.svg";
-import Instagram from "../../assets/instagram.svg";
+import Logo from "../../assets/images/Foodieland..svg";
+import Facebook from "../../assets/images/facebook.svg";
+import Twitter from "../../assets/images/twitter.svg";
+import Instagram from "../../assets/images/instagram.svg";
 
 export default function Navbar() {
   return (
